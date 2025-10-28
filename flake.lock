@@ -217,11 +217,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1759437284,
-        "narHash": "sha256-p2/Ud6PW7rPucutLiakrgtAp0n+JGp9r2n/IHkX2p9o=",
+        "lastModified": 1761486772,
+        "narHash": "sha256-vCKwbamHObyUwF+nEJAnndLFgU8Q6aqcc8JSJ8axauU=",
         "owner": "neocrz",
         "repo": "my-nixpkgs",
-        "rev": "76e56d05419ac53a733fd4be7d9bba369b73405b",
+        "rev": "064494176663a5d766c9f9b1dc8fcf67b8af0a32",
         "type": "github"
       },
       "original": {

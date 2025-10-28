@@ -33,15 +33,15 @@
       nano
     ])
     ++ (with pkgs.neocrz; [
-      # nvf # julia fail?
+      nvf # julia fail?
     ]);
 
   # mostly GUI
   desktopApps = with pkgs.unstable;
     [
       anydesk
-      # xclip
-      wl-clipboard-x11
+      xclip
+      # wl-clipboard-x11
       audacity
       bitwarden-desktop
       krita
@@ -56,7 +56,7 @@
       vesktop
       vlc
     ]
-    ++ (with pkgs; [ ]);
+    ++ (with pkgs; []);
 
   # Specifics
   droidApps = with pkgs; [
